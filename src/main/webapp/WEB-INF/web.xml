@@ -1,11 +1,11 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
-    <servlet-name>myServlet</servlet-name>
-    <servlet-class>myWebApp.myServlet</servlet-class>
+    <servlet-name>LoginController</servlet-name>
+    <servlet-class>myWebApp.controllers.LoginController</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>myServlet</servlet-name>
-    <url-pattern>/qwe</url-pattern>
+    <servlet-name>LoginController</servlet-name>
+    <url-pattern>/LoginController</url-pattern>
   </servlet-mapping>
 </web-app>
