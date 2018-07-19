@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Library_main] - ...\src\main\java\Library\dao\impl\BookJdbcDAO.java'" />
-    <option name="defaultScopeName" value="File '[Library_main] - ...\src\main\java\Library\dao\impl\BookJdbcDAO.java'" />
-    <option name="SEARCH_SCOPE" value="File '[Library_main] - ...\src\main\java\Library\dao\impl\BookJdbcDAO.java'" />
+    <option name="customScope" value="Project 'TestTask'" />
+    <option name="defaultScopeName" value="Project 'TestTask'" />
+    <option name="SEARCH_SCOPE" value="Project 'TestTask'" />
   </component>
 </application>
